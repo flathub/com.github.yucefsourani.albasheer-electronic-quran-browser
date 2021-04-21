@@ -67,8 +67,7 @@
         "sources": [
             {
                 "type": "git",
-                "url": "https://github.com/yucefsourani/albasheer-electronic-quran-browser",
-		"branch" : "add_download_tilawa_window"
+                "url": "https://github.com/yucefsourani/albasheer-electronic-quran-browser"
         },
         {
                 "type": "file",
