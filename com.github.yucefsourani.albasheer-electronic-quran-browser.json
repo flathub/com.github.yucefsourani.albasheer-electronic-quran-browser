@@ -70,7 +70,8 @@
             {
                 "type": "git",
                 "url": "https://github.com/yucefsourani/albasheer-electronic-quran-browser",
-                "branch" : "add_mpris"
+                "branch" : "add_mpris",
+		"commit" : "6f01766f62f12b7f7bd1c35b64409d15bca72dc4"
         },
         {
                 "type": "file",
