@@ -46,8 +46,6 @@
             }
         ],
         "build-commands": [
-            "pwd",
-            "ls -lh",
             "mkdir -p /app/share/fonts/",
             "cp *.ttf /app/share/fonts/",
             "mkdir -p /app/etc/fonts/conf.d/",
