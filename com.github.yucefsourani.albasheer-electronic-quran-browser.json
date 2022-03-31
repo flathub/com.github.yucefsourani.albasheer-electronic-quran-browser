@@ -33,8 +33,8 @@
         "sources": [
             {
                 "type": "archive",
-                "url": "https://github.com/aliftype/amiri/archive/refs/tags/0.114.tar.gz",
-                "sha256": "43a159897f5d11e1c2fbac481553dd1c75464111d615b89c43f1b4be19f94b8c"
+                "url": "https://github.com/alif-type/amiri/archive/054d41d/amiri-054d41dc54992ff082808f6cfd2a068b59d3211c.tar.gz",
+                "sha256": "ea6e035baad47dbfcc6a0e9ae1f49d7eab3d7e47938ff2d37c77b4b17437c10e"
             },
             {
                 "type": "file",
