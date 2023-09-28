@@ -47,7 +47,7 @@
             ],
             "build-commands": [
                 "mkdir -p /app/share/fonts/",
-                "cp /fonts/*.ttf /app/share/fonts/",
+                "cp fonts/*.ttf /app/share/fonts/",
                 "mkdir -p /app/etc/fonts/conf.d/",
                 "cp amiri-fontconfig.conf /app/etc/fonts/conf.d/",
                 "cp amiri-quran-fontconfig.conf /app/etc/fonts/conf.d/",
