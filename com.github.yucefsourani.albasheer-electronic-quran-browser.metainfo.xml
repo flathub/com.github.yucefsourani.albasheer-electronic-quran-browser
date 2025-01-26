@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Copyright 2021 Yucef Sourani <youssef.m.sourani@gmail.com> -->
 <component type="desktop-application">
   <id>com.github.yucefsourani.albasheer-electronic-quran-browser</id>
   <name>albasheer</name>
   <summary>Electronic Quran Browser</summary>
   <metadata_license>CC0-1.0</metadata_license>
-  <project_license>AGPL-3.0-only</project_license>
+  <project_license>GPL-3.0+</project_license>
   <recommends>
     <control>pointing</control>
     <control>keyboard</control>
@@ -16,14 +15,13 @@
   <description>
     <p>Electronic Quran Browser.</p>
     <ul>
-      <li>Support Audio Tilawa (mp3 from ayat) And add Option To Add/Download Audio tilawa from ayat files (*.ayt)</li>
+      <li>Support Audio Tilawa (mp3 from ayat)</li>
       <li>Support Auto Scroll + Run Tilawa</li>
-      <li>Support Tarajem (from ayat) And add Option To add Tajarem from ayat files (*.ayt)</li>
-      <li>Support Tafasir (from ayat) And add Option To add Tafasir from ayat files (*.ayt)</li>
+      <li>Support Tarajem (from ayat)</li>
+      <li>Support Tafasir (from ayat)</li>
       <li>Support Speed Up/Down Auto scroll </li>
       <li>Support save/load last current sura aya</li>
       <li>Support search for sura</li>
-      <li>Support MPRIS (Media Player Remote Interfacing)</li>
     </ul>
   </description>
   <screenshots>
@@ -31,21 +29,15 @@
       <image>https://raw.githubusercontent.com/yucefsourani/albasheer-electronic-quran-browser/master/Screenshot1.png</image>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/yucefsourani/albasheer-electronic-quran-browser/master/Screenshot3.png</image>
+      <image>https://raw.githubusercontent.com/yucefsourani/albasheer-electronic-quran-browser/master/Screenshot2.png</image>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/yucefsourani/albasheer-electronic-quran-browser/master/Screenshot6.png</image>
+      <image>https://raw.githubusercontent.com/yucefsourani/albasheer-electronic-quran-browser/master/Screenshot4.png</image>
     </screenshot>
   </screenshots>
   <launchable type="desktop-id">com.github.yucefsourani.albasheer-electronic-quran-browser.desktop</launchable>
   <releases>
-    <release version="3.0.1" date="2021-06-12">
-      <description>
-        <p>New features:</p>
-          <ul><li>Add MPRIS (Media Player Remote Interfacing)</li></ul>
-      </description>
-    </release>
-    <release version="2.0.1" date="2021-04-21"/>
+    <release version="3.0.0" date="2024-01-25"/>
   </releases>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-cartoon">none</content_attribute>
@@ -77,4 +69,8 @@
     <content_attribute id="money-gambling">none</content_attribute>
   </content_rating>
   <update_contact>youssef.m.sourani@gmail.com</update_contact>
+  <translation type="gettext">albasheer</translation>
+  <branding>
+    <color type="primary" scheme_preference="dark">#993d3d</color>
+  </branding>
 </component>
