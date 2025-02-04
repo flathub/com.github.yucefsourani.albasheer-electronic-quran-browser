@@ -64,7 +64,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/yucefsourani/albasheer-electronic-quran-browser",
-                    "commit" : "431d76423720bf57b8d4c6143bf78c3d73a93d73"
+                    "commit" : "1b804dd138c1a86a2efe80b72187655af737fc1f"
                 }
             ],
             "config-opts" : [
